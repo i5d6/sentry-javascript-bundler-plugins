@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "peerDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^9.26.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.13.0",
@@ -15,7 +15,7 @@
     "eslint-plugin-react-hooks": "^4.4.0"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^9.26.0"
   },
   "scripts": {
     "clean:all": "run-s clean:deps",

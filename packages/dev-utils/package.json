@@ -7,10 +7,10 @@
     "src"
   ],
   "peerDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^9.26.0"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^9.26.0"
   },
   "volta": {
     "extends": "../../package.json"
